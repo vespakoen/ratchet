@@ -1,4 +1,4 @@
-# Ratchet
+# Ratchet by koen
 
 Prototype mobile apps with simple HTML, CSS and JS components.
 
